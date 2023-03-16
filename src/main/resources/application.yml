@@ -1,0 +1,7 @@
+tinapi:
+  client:
+    access-key: accessKey
+    secretkey: abc
+
+server:
+  port: 8080
